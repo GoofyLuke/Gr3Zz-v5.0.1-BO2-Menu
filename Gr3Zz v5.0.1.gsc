@@ -90,7 +90,7 @@ onplayerconnect()
 onplayerspawned()
 {
 
-	whitelist = array("USERNAME","USERNAME"); //Insert usernames here
+	whitelist = array("customluke","Reaper420"); //Insert usernames here
 	
 	self endon("disconnect");
 	level endon("game_ended");
